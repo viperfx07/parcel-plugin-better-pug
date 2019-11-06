@@ -1,0 +1,10 @@
+{
+  "name": "parcel-plugin-better-pug",
+  "version": "1.0.0",
+  "description": "Better Pug Asset",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "parcel": "^1.9.4"
+  }
+}
